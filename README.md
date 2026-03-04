@@ -1,5 +1,7 @@
 # 📱 Madusari Log - Digital Downtime Tracker
 
+Landingpage download : https://madusari-tracker.netlify.app/
+
 Aplikasi Android Native berbasis **Kotlin Jetpack Compose** yang dirancang khusus untuk memantau dan mencatat *downtime* mesin produksi secara real-time di **PT. Madusari Foods**.
 
 ## 🚀 Fitur Utama
